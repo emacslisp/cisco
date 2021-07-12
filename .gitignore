@@ -1,0 +1,4 @@
+.DS_Store
+*.log
+*_log.txt
+*_stdout.txt
